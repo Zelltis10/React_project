@@ -6,7 +6,7 @@ class App extends Component{
             {/* <h1>This is my react</h1>   */}
             <table align='center' width='100%'>
                <tr>
-                  <td align='right'><font size="25">User registration</font> </td>
+                  <td align='right'><font size="25">User registration </font> </td>
                   <td width='668'></td>
                   {/* <td width='668'></td> */}
                </tr>
